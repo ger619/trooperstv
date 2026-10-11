@@ -17,6 +17,7 @@
 !/tmp/.keep
 
 # Ignore pidfiles, but keep the directory.
+temp_auto_push.bat
 /tmp/pids/*
 !/tmp/pids/
 !/tmp/pids/.keep
@@ -36,3 +37,5 @@
 
 /app/assets/builds/*
 !/app/assets/builds/.keep
+.gitignore
+branch_structure.json
